@@ -1,0 +1,17 @@
+{
+  "name": "appFilmes",
+  "version": "0.1.0",
+  "description": "Gerador da app filmesa",
+  "main": "slushfile.js",
+  "dependencies": {
+    "gulp": "~3.5.6",
+    "gulp-template": "~0.1.1",
+    "gulp-install": "~0.1.1",
+    "gulp-conflict": "~0.1.1",
+    "gulp-rename": "~1.2.0",
+    "underscore.string": "~2.3.3",
+    "inquirer": "~0.4.1"
+  },
+  "author": "Seu Nome",
+"license": "MIT"
+}
